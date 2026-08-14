@@ -33,10 +33,12 @@ body {
 
 h1 {
   /* TODO: text-align: center */
+  text-align: center;
 }
 
 .cargo {
   /* TODO: font-weight: bold OU font-style: italic */
+  font-style: italic;
 }
 
 .cartao {
@@ -45,4 +47,5 @@ h1 {
 
 .btn {
   /* TODO: background-color */
+  background-color: aqua;
 }
